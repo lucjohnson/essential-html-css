@@ -72,3 +72,10 @@ header h3 {
 .about-us {
 	padding: 1em;
 }
+footer {
+	padding: 1em;
+	background-color: #FC892F;
+	border-top: 5px solid #EC791F;
+	font-size: 80%;
+	text-align: right;
+}
