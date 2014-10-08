@@ -37,5 +37,23 @@ h3 {
 }
 .main-page-content {
 	margin-left: 30%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
 	background-image: url('../img/ricepaper_v3.png');
+	opacity: 0.9;
+}
+header {
+	padding: 1em;
+	background-color: #FA5A0F;
+	border-bottom: 5px solid #EA4A00;
+	color: #FFFFFF;
+}
+header h3 {
+	font-size: 120%;
+	color: #EEEEEE;
+	margin: 0;
+}
+.restaurant-info {
+	padding: 1em;
 }
