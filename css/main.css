@@ -57,3 +57,18 @@ header h3 {
 .restaurant-info {
 	padding: 1em;
 }
+.menu {
+	padding: 1em;
+	background-color: rgba(207,205,140,0.5);
+}
+.menu dt {
+	font-weight: 400;
+}
+.menu dd {
+	font-size: 80%;
+	font-style: italic;
+	margin: 0em 0em 1em 1em;
+}
+.about-us {
+	padding: 1em;
+}
