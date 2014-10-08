@@ -4,7 +4,7 @@
 
 /* basic elements */
 body {
-	font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+	font-family: 'Lato', 'Helvetica Neue', 'Helvetica', sans-serif;
 	font-size: 18px;
 	font-weight: 300;
 	background-image: url('../img/background.jpg');
@@ -19,12 +19,12 @@ a:hover, a:focus {
 	color: #0000EE;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Raleway', 'Helvetica Neue', Helvetica, sans-serif;
+	font-family: 'Raleway', 'Helvetica Neue', 'Helvetica', sans-serif;
 	font-weight: 300;
 }
 h1 {
 	font-size: 300%;
-	margin: 0px;
+	margin: 0;
 }
 h2, h3 {
 	color: #505050;
@@ -35,6 +35,7 @@ h2 {
 h3 {
 	font-size: 125%;
 }
+/* specific divs */
 .main-page-content {
 	margin-left: 30%;
 	margin-top: 20px;
@@ -78,4 +79,7 @@ footer {
 	border-top: 5px solid #EC791F;
 	font-size: 80%;
 	text-align: right;
+}
+footer p {
+	font-style: italic;
 }
