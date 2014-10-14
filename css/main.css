@@ -38,10 +38,7 @@ h3 {
 
 /* specific divs */
 .main-page-content {
-	margin-left: 30%;
-	margin-top: 20px;
-	margin-bottom: 20px;
-	margin-right: 20px; 
+	margin: 20px 20px 20px 30%;
 	background-image: url('../img/ricepaper_v3.png');
 	opacity: 0.9;
 }
@@ -75,11 +72,11 @@ header h3 {
 	padding: 1em;
 }
 footer {
-	padding: 1em;
 	background-color: #FC892F;
 	border-top: 5px solid #EC791F;
 	font-size: 80%;
 	text-align: right;
+	padding: 1em;
 }
 footer p {
 	font-style: italic;
